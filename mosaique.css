@@ -60,4 +60,20 @@ html{
 		font-size: 1em;
 		padding-top: 2em;
 	}
+<<<<<<< HEAD
 
+=======
+	.imgAlina{
+		border-radius: 50%;
+		width: 100px;
+		height: 100px;
+		display: inline-block;
+		background-image: url("imgAlina.jpg");
+		background-size: cover;
+		margin: 10px;
+	}
+	.Alina {
+		color: #000000;
+		bottom: 1em;
+	}
+>>>>>>> 99400d559ce1953493648af6b4a3f9749a3bf1de
