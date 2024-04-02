@@ -48,7 +48,7 @@ html{
 		width: 100px;
 		height: 100px;
 		display: inline-block;
-	    /* background-color: #f64d9d;  */
+	    background-color: #f64d9d; 
 		margin: 10px;
 
 	}
@@ -70,7 +70,6 @@ html{
 		font-size: 1em;
 		padding-top: 2em;
 	}
-<<<<<<< HEAD
 	.Image1{	border-radius: 50%;
 		width: 100px;
 		height: 100px;
@@ -78,10 +77,6 @@ html{
 		background-image: url("Image1.jpg");
 		background-size: cover;
 		margin: 10px;}
-=======
-<<<<<<< HEAD
-
-=======
 	.imgAlina{
 		border-radius: 50%;
 		width: 100px;
@@ -95,5 +90,3 @@ html{
 		color: #000000;
 		bottom: 1em;
 	}
->>>>>>> 99400d559ce1953493648af6b4a3f9749a3bf1de
->>>>>>> 40949b8e1f8696d397182e81736be4b04801d084
