@@ -52,16 +52,6 @@ html{
 		margin: 10px;
 
 	}
-	.pastilleafrah{
-		border-radius: 50%;
-		width: 120px;
-		height: 120px;
-		display: inline-block;
-		background-image: url('maruko.jpg');
-		background-size: cover;  /* Ajoutez cette ligne pour vous assurer que l'image de fond couvre tout le cercle */
-		margin: 10px;
-
-	}
 	
 	h1{
 		margin-bottom: 1em;
@@ -89,4 +79,8 @@ html{
 	.Alina {
 		color: #000000;
 		bottom: 1em;
+	}
+	.link{
+		height: 150px;
+		display: inline-flex;
 	}
