@@ -14,7 +14,7 @@ html{
 		background: linear-gradient(to bottom,#3c3c3b 0%,#2fbecb 100%);
 	}
 	a{color: #333;}
-	a:hover,a.b1:hover,a.b3:hover,a:hover .pastille h3{color: #2fbecb;}
+	a:hover,a.b1:hover,a.b3:hover,a:hover .pastille h3{color: #202525;}
 	.subtitle{font-size: 0.25em;}
 	.subtitle, h3{
 		color: #ddd;
@@ -43,14 +43,16 @@ html{
 		padding-bottom: 20px;
 		border-radius: 20px;
 	}
-	.pastille{
+	.pastille {
 		border-radius: 50%;
 		width: 100px;
 		height: 100px;
 		display: inline-block;
-		background-color: #f64d9d;
+		background-image: url('maruko.jpg');
+		background-size: cover;  /* Ajoutez cette ligne pour vous assurer que l'image de fond couvre tout le cercle */
 		margin: 10px;
 	}
+	
 	h1{
 		margin-bottom: 1em;
 	}
@@ -58,3 +60,4 @@ html{
 		font-size: 1em;
 		padding-top: 2em;
 	}
+
