@@ -45,11 +45,28 @@ html{
 	}
 	.pastille{
 		border-radius: 50%;
-		width: 100px;
-		height: 100px;
+		width: 120px;
+		height: 120px;
 		display: inline-block;
 		background-color: #f64d9d;
 		margin: 10px;
+	}
+	img{border-radius: 50%;
+		width: 100px;
+		height: 100px;
+		display: inline-block;
+	    /* background-color: #f64d9d;  */
+		margin: 10px;
+
+	}
+	.pastilleafrah{
+		border-radius: 50%;
+		width: 120px;
+		height: 120px;
+		display: inline-block;
+		background-color: #f64d9d;
+		margin: 10px;
+
 	}
 	h1{
 		margin-bottom: 1em;
