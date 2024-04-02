@@ -48,9 +48,19 @@ html{
 		width: 100px;
 		height: 100px;
 		display: inline-block;
+	    /* background-color: #f64d9d;  */
+		margin: 10px;
+
+	}
+	.pastilleafrah{
+		border-radius: 50%;
+		width: 120px;
+		height: 120px;
+		display: inline-block;
 		background-image: url('maruko.jpg');
 		background-size: cover;  /* Ajoutez cette ligne pour vous assurer que l'image de fond couvre tout le cercle */
 		margin: 10px;
+
 	}
 	
 	h1{
@@ -60,6 +70,15 @@ html{
 		font-size: 1em;
 		padding-top: 2em;
 	}
+<<<<<<< HEAD
+	.Image1{	border-radius: 50%;
+		width: 100px;
+		height: 100px;
+		display: inline-block;
+		background-image: url("Image1.jpg");
+		background-size: cover;
+		margin: 10px;}
+=======
 <<<<<<< HEAD
 
 =======
@@ -77,3 +96,4 @@ html{
 		bottom: 1em;
 	}
 >>>>>>> 99400d559ce1953493648af6b4a3f9749a3bf1de
+>>>>>>> 40949b8e1f8696d397182e81736be4b04801d084
